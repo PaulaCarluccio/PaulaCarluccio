@@ -11,8 +11,8 @@ Hi! I'm Paula, a Quality Assurance Engineer with a strong background in manual t
 
 ## 🚀 Technical Skills
 
-- **Automation:** Developing automated test scripts with Selenium, TestNG, and Playwright.  
-- **Continuous Integration:** Knowledge in configuring and reviewing pipelines in Jenkins.  
+- **Automation:** Developing automated test scripts with Cucumber, Selenium, TestNG and Java.  
+- **Continuous Integration:** Growing experience in configuring and reviewing pipelines in Jenkins, as well as working with Docker for containerization and automation tasks.  
 - **Performance Testing:** Proficient in using JMeter for load and stress testing.  
 - **APIs:** Validating API functionality and integration using Postman.
 
