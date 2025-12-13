@@ -1,7 +1,7 @@
 # Paula - Software Quality Engineer
 
 Hi! I'm Paula
-I'm a QA Automation Engineer with nearly 5 years of experience in manual and automated testing. I build automation frameworks, help define testing strategies, and work closely with engineering teams to make quality part of the process from day one.
+I'm a QA Automation Engineer with nearly 5 years of experience in manual and automated testing. I build automation frameworks, help define testing strategies, and work closely with engineering teams
 I enjoy taking ownership, mentoring teammates, and continuously improving how teams test and ship software.
 
 ## About Me
