@@ -1,6 +1,8 @@
 # 👩‍💻 Paula - QA Analyst Ssr | QA Automation Engineer
 
-Hi! I'm Paula, a Quality Assurance Engineer with a strong background in manual testing, extending over three years, and specializing in automation for the past two. I excel in API testing, framework development, and collaborating with global teams in English.
+Hi! I'm Paula 👋
+I'm a QA Automation Engineer with nearly 5 years of experience in manual and automated testing. I build automation frameworks, help define testing strategies, and work closely with engineering teams to make quality part of the process from day one.
+I enjoy taking ownership, mentoring teammates, and continuously improving how teams test and ship software.
 
 ## 🌟 About Me
 
@@ -18,7 +20,7 @@ Hi! I'm Paula, a Quality Assurance Engineer with a strong background in manual t
 
 ## 🎯 Objectives
 
-I aim to continue collaborating with teams to enhance quality and deepen my technical knowledge.
+I'm looking to grow into a leadership role where I can support others, share knowledge, and help teams improve quality together.
 
 ### Connect with me:
 
