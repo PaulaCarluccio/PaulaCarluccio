@@ -1,4 +1,4 @@
-# 👩‍💻 Paula - QA Analyst Ssr | QA Automation Engineer
+# 👩‍💻 Paula - Software Quality Engineer
 
 Hi! I'm Paula 👋
 I'm a QA Automation Engineer with nearly 5 years of experience in manual and automated testing. I build automation frameworks, help define testing strategies, and work closely with engineering teams to make quality part of the process from day one.
