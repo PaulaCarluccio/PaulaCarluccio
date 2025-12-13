@@ -1,24 +1,24 @@
-# 👩‍💻 Paula - Software Quality Engineer
+# Paula - Software Quality Engineer
 
-Hi! I'm Paula 👋
+Hi! I'm Paula
 I'm a QA Automation Engineer with nearly 5 years of experience in manual and automated testing. I build automation frameworks, help define testing strategies, and work closely with engineering teams to make quality part of the process from day one.
 I enjoy taking ownership, mentoring teammates, and continuously improving how teams test and ship software.
 
-## 🌟 About Me
+## About Me
 
 - **Education:** Pursuing a Bachelor's degree in Computer Science.  
 - **Interests:** Artificial Inteligence, Machine Learning, Board Gaming and Maths.
 - **Location:** Buenos Aires, Argentina.  
 - **Languages:** Spanish (native), English (advanced).
 
-## 🚀 Technical Skills
+## Technical Skills
 
 - **Automation:** Developing automated test scripts with Cucumber, Selenium, TestNG and Java.  
 - **Continuous Integration:** Growing experience in configuring and reviewing pipelines in Jenkins, as well as working with Docker for containerization and automation tasks.  
 - **Performance Testing:** Proficient in using JMeter for load and stress testing.  
 - **APIs:** Validating API functionality and integration using Postman.
 
-## 🎯 Objectives
+## Objectives
 
 I'm looking to grow into a leadership role where I can support others, share knowledge, and help teams improve quality together.
 
