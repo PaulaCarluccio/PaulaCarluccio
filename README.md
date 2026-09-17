@@ -39,7 +39,3 @@ Me gustaría que este repo vaya creciendo con proyectos que nazcan de preguntas 
 Algunas ideas ya están en marcha y otras van a aparecer en el camino. Me gusta que este espacio también muestre ese proceso: lo que intento, lo que aprendo y cómo van cambiando las cosas a medida que las construyo.
 
 ---
-
-<p align="center">
-  📍 Buenos Aires, Argentina
-</p>
