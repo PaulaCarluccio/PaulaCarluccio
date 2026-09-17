@@ -1,38 +1,46 @@
-# Hi, I'm Paula Carluccio 👋
-### QA Automation Engineer | Applied AI & Data
+<h1 align="center">¡Hola! Soy Paula 👋</h1>
 
-QA Automation Engineer with 5+ years of experience across the software testing lifecycle, specializing in end-to-end automation for Web, Mobile, and APIs. My recent work focuses on integrating Data Analytics, automated reporting pipelines, and LLM-driven agents to streamline defect triaging and framework maintenance.
+<p align="center">
+  <strong>QA Automation Engineer · Estudiando y aplicando datos e IA a mis proyectos</strong>
+</p>
 
-📍 Buenos Aires, Argentina | 🗣️ Spanish (Native) · English (C1)
+<p align="center">
+  Me gusta entender cómo funcionan las cosas, encontrar patrones y construir herramientas que hagan el trabajo más simple.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-carluccio/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://www.paulacarluccio.com.ar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paucarluccio@gmail.com)
-
----
-
-### 📂 About This GitHub
-
-Most of my enterprise-grade automation frameworks and production pipelines reside in private corporate repositories. This space serves as my public sandbox for:
-
-* **Academic Projects:** Practical implementations and research from my studies in Data Science & Artificial Intelligence.
-* **Personal Labs & Prototypes:** Experiments bridging QA with data analytics, agentic workflows, and process automation (n8n, APIs, LLMs).
-* **Technical Challenges & Boilerplates:** Reference codebases, coding assessments, and architectural templates.
-
----
-
-### 🛠️ Core Tech Stack
-
-* **Test Automation:** Java, Python, Selenium WebDriver, Appium, Cucumber (BDD), TestNG, REST Assured, Postman, JMeter.
-* **Data & Applied AI:** Multi-Agent Systems, Claude Code, LLMs, Pandas, Exploratory Data Analysis (EDA), SQL.
-* **CI/CD & DevOps:** Git, Bitbucket Pipelines, Jenkins, Docker, Maven.
-* **Workflows & Reporting:** ExtentReports, Allure, Power Automate, n8n, Webhooks.
+<p align="center">
+  <a href="https://www.paulacarluccio.com.ar/">
+    <img src="https://img.shields.io/badge/P%C3%A1gina_Web-C45A83?style=for-the-badge" alt="Página Web">
+  </a>
+  <a href="https://www.linkedin.com/in/paula-carluccio/">
+    <img src="https://img.shields.io/badge/LinkedIn-C45A83?style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:paucarluccio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C45A83?style=for-the-badge" alt="Email">
+  </a>
+</p>
 
 ---
 
-### 🎓 Education
+### Un poco sobre mí
 
-* **Higher Technical Degree in Data Science & Artificial Intelligence**  
-  *IFTS N° 24* | 2026 – Present
-* **Bachelor of Science in Data Science** *(Coursework)*  
-  *University of Buenos Aires (UBA)* | 2023 – 2025
+Trabajo en automatización de pruebas, pero lo que más disfruto es investigar por qué falla algo, mejorar procesos y buscar formas de aprovechar la información que ya tenemos.
+
+Actualmente estoy estudiando datos e inteligencia artificial. Sigo explorando cómo aplicar esas herramientas a problemas que conozco de cerca, como los reportes de ejecución, la investigación de fallas y el mantenimiento de pruebas automatizadas.
+
+### Qué vas a encontrar acá
+
+Los proyectos de automatización que desarrollo en mi trabajo pertenecen a repositorios privados, por lo que no puedo publicar su código acá. Este perfil reúne mis proyectos académicos y personales: un espacio para compartir lo que aprendo, experimentar con nuevas ideas y mostrar cómo las llevo a la práctica.
+
+Por ahora vas a encontrar principalmente trabajos y ejercicios de mi formación en Ciencias de Datos e Inteligencia Artificial.
+
+### Lo que quiero construir
+
+Me gustaría que este repo vaya creciendo con proyectos que nazcan de preguntas o problemas que me den curiosidad. Quiero probar ideas, crear herramientas que me resulten útiles y animarme a compartirlas aunque todavía tengan cosas por mejorar.
+
+Algunas ideas ya están en marcha y otras van a aparecer en el camino. Me gusta que este espacio también muestre ese proceso: lo que intento, lo que aprendo y cómo van cambiando las cosas a medida que las construyo.
+---
+
+<p align="center">
+  📍 Buenos Aires, Argentina
+</p>
