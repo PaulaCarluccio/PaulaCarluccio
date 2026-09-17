@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.paulacarluccio.com.ar/">
-    <img src="https://img.shields.io/badge/P%C3%A1gina_Web-C45A83?style=for-the-badge" alt="Página Web">
+    <img src="https://img.shields.io/badge/P%C3%A1gina_Web-C45A83?style=for-the-badge" alt="Mi Página Web">
   </a>
   <a href="https://www.linkedin.com/in/paula-carluccio/">
     <img src="https://img.shields.io/badge/LinkedIn-C45A83?style=for-the-badge" alt="LinkedIn">
@@ -18,7 +18,6 @@
   </a>
 </p>
 
----
 
 ## Un poco sobre mí
 
@@ -37,5 +36,3 @@ Por ahora tengo principalmente trabajos y ejercicios de mi formación en Ciencia
 Me gustaría que este repo vaya creciendo con proyectos que nazcan de preguntas o problemas que me den curiosidad. Quiero probar ideas, crear herramientas que me resulten útiles y animarme a compartirlas aunque todavía tengan cosas por mejorar.
 
 Algunas ideas ya están en marcha y otras van a aparecer en el camino. Me gusta que este espacio también muestre ese proceso: lo que intento, lo que aprendo y cómo van cambiando las cosas a medida que las construyo.
-
----
